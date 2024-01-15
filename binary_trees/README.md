@@ -1,11 +1,11 @@
 # General Objectives
 
-* ***What is a binary tree
+* What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
 * What is the possible gain in terms of time complexity compared to linked lists
 * What are the depth, the height, the size of a binary tree
 * What are the different traversal methods to go through a binary tree
-* What is a complete, a full, a perfect, a balanced binary tree***
+* What is a complete, a full, a perfect, a balanced binary tree
 
 ## Requirements
 * Allowed editors: vi, vim, emacs, VS Code
@@ -170,6 +170,7 @@ void binary_tree_print(const binary_tree_t *tree)
 ## Tasks
 
 **0. New node**
+
 Write a function that creates a binary tree node
 
 * Prototype: `binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);`
